@@ -1,0 +1,14 @@
+🎨 Build a simple frontend in React to test this?
+
+🧪 Add unit tests or dummy voter/candidate seed scripts?
+
+📦 Deploy on Render, Vercel, or Railway for free hosting?
+
+🧾 Generate a README.md for GitHub documentation?
+
+  {
+    "name": "KaranRawat6",
+    "email": "karanrawat6@example.com",
+    "password": "karanrawat6",
+    "role": "admin"
+  }
