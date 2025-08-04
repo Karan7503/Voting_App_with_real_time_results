@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "688df14ead9fcd2f70b3dd01"
+  },
+  "name": "Alice",
+  "party": "Party A",
+  "voteCount": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688df14ead9fcd2f70b3dd02"
+  },
+  "name": "Bob",
+  "party": "Party B",
+  "voteCount": 1,
+  "__v": 0
+}]

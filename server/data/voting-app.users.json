@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "688f0e35c34b5fee20da0ea9"
+  },
+  "name": "karanrawat1",
+  "email": "karanrawat1@gmail.com",
+  "password": "$2b$10$dZmhpS89knL.D59qCbZcQey6qaUPEsv5qe0qqEL6EdFO0kYwNRRAG",
+  "hasVoted": false,
+  "createdAt": {
+    "$date": "2025-08-03T07:22:29.862Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-03T07:22:29.862Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688f1e97cbcb3942e4a0f9d9"
+  },
+  "name": "karan2",
+  "email": "karan2@ex.com",
+  "password": "$2b$10$MOFbzVd0IhXWSGa7ahrAcOIa4R2Q9nIyVrQyzst1RtOlihIof/hte",
+  "hasVoted": true,
+  "createdAt": {
+    "$date": "2025-08-03T08:32:23.341Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-03T08:32:59.737Z"
+  },
+  "__v": 0,
+  "votedFor": {
+    "$oid": "688df14ead9fcd2f70b3dd01"
+  }
+},
+{
+  "_id": {
+    "$oid": "688f44a124124eeada017a8e"
+  },
+  "name": "karan3",
+  "email": "karan3@ex.com",
+  "password": "$2b$10$QbbHPNny9ywtBCyjIlb9p.pz0c95/McuICF3JxeoD0fwRt1KOI.HO",
+  "hasVoted": true,
+  "createdAt": {
+    "$date": "2025-08-03T11:14:41.662Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-03T11:15:12.566Z"
+  },
+  "__v": 0,
+  "votedFor": {
+    "$oid": "688df14ead9fcd2f70b3dd02"
+  }
+},
+{
+  "_id": {
+    "$oid": "688f53211811531f3c07d400"
+  },
+  "name": "karan4",
+  "email": "karan4@x.com",
+  "password": "$2b$10$lRxJ6soRVSbVT3d38EFJTeQYY6nscImCsqO0zPVSsPUg.SAGBboc6",
+  "hasVoted": true,
+  "createdAt": {
+    "$date": "2025-08-03T12:16:33.264Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-03T12:17:09.387Z"
+  },
+  "__v": 0,
+  "votedFor": {
+    "$oid": "688df14ead9fcd2f70b3dd01"
+  }
+}]

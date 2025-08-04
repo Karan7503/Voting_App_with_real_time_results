@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "688f1ebbcbcb3942e4a0f9e0"
+  },
+  "voter": {
+    "$oid": "688f1e97cbcb3942e4a0f9d9"
+  },
+  "candidate": {
+    "$oid": "688df14ead9fcd2f70b3dd01"
+  },
+  "createdAt": {
+    "$date": "2025-08-03T08:32:59.702Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-03T08:32:59.702Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688f44c024124eeada017a95"
+  },
+  "voter": {
+    "$oid": "688f44a124124eeada017a8e"
+  },
+  "candidate": {
+    "$oid": "688df14ead9fcd2f70b3dd02"
+  },
+  "createdAt": {
+    "$date": "2025-08-03T11:15:12.524Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-03T11:15:12.524Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "688f53451811531f3c07d407"
+  },
+  "voter": {
+    "$oid": "688f53211811531f3c07d400"
+  },
+  "candidate": {
+    "$oid": "688df14ead9fcd2f70b3dd01"
+  },
+  "createdAt": {
+    "$date": "2025-08-03T12:17:09.381Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-03T12:17:09.381Z"
+  },
+  "__v": 0
+}]
