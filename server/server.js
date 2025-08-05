@@ -27,9 +27,16 @@ app.use('/api/v1/test', testRoutes);
 app.use('/api/v1/auth', authRoutes);
 app.use('/api/v1/vote', voteRoutes);
 
+
+app.get('/', (req, res) => {
+  res.send('Voting App Backend is running');
+});
+
+
 app.get('/api/test', (req, res) => {
   res.json({ msg: 'API working!' });
 });
+
 
 // // Fallback Route
 app.all('/*', (req, res) => {
