@@ -15,10 +15,10 @@ const seedCandidates = async () => {
     console.log("🧹 Old candidates cleared");
 
     // Add new candidates
-    // const candidates = [
-    //   { name: "Alice", party: "Party A" },
-    //   { name: "Bob", party: "Party B" },
-    // ];
+    const candidates = [
+      { name: "Alice", party: "Party A" },
+      { name: "Bob", party: "Party B" },
+    ];
 
     // await Candidate.insertMany(candidates);
     // console.log("🌱 Seeded new candidates");
